@@ -14,4 +14,4 @@
 
 ### Demo
 
-<img src="demo/Screenshot_20230421-225242.png" width="400" height="600"/> <img src="demo/Screenshot_20230421-225250.png" width="400" height="600"/>
+<img src="demo/Screenshot_20230421-225242.png" width="400" style="margin-left: auto; margin-right: auto; margin-bottom: 50px; display: block;"/>
