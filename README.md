@@ -13,5 +13,9 @@
  - WeatherAPI (https://www.weatherapi.com/)
 
 ### Demo
-
-<img src="demo/Screenshot_20230421-225242.png" width="400" style="margin-left: auto; margin-right: auto; margin-bottom: 50px; display: block;"/>
+<p align="center" width="100%">
+    <img src="demo/Screenshot_20230421-225242.png" width="32%"/>
+    <img src="demo/Screenshot_20230421-225250.png" width="32%"/>
+    <img src="demo/Screenshot_20230422-161037.png" width="32%"/>
+</p>
+<img src="demo/Screenshot_20230421-225242.png" width="32%"/>
