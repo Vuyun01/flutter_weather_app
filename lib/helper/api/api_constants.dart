@@ -1,8 +1,8 @@
 
 //api key
-const String apiKey = '8ceb363a67bbba2ff80e6c28e7271498';
-const String googleAPiKey = 'AIzaSyBpbh5WnwF-scwZagewjeMOImY2uZVAyi4';
-const String apiSearchAutoKey = 'f8952941c39f4ecbb7630036232104';
+const String apiKey = 'your key';
+const String googleAPiKey = 'your key';
+const String apiSearchAutoKey = 'your key';
 
 //others
 const String urlWeatherIcons = 'https://openweathermap.org/img/wn/';
