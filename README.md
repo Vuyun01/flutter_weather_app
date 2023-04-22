@@ -11,3 +11,7 @@
 ### Weather API:
  - Openweathermap (https://openweathermap.org/api)
  - WeatherAPI (https://www.weatherapi.com/)
+
+### Demo
+
+<img src="demo/Screenshot_20230421-225242.png" width="640"/>
